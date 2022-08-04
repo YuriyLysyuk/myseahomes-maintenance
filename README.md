@@ -2,7 +2,7 @@
 
 Лэндинг для отдела маркетинга сайта myseahomes.com
 
-[Live](https://myseahomes.com/boost/)
+[Демо](https://myseahomes.com/boost/)
 
 ## Как запустить проект?
 
