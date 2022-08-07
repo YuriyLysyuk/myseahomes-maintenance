@@ -1,6 +1,6 @@
-# Myseahomes marketing landing
+# Лендинг отдела маркетинга
 
-Лэндинг для отдела маркетинга сайта myseahomes.com
+Лендинг для отдела маркетинга сайта myseahomes.com
 
 [Демо](https://myseahomes.com/boost/)
 
