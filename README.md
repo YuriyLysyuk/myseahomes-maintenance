@@ -1,21 +1,21 @@
-# Лендинг отдела маркетинга
+# Myseahomes marketing landing page
 
-Лендинг для отдела маркетинга сайта myseahomes.com
+Landing page for myseahomes marketing department
 
-[Демо](https://myseahomes.com/boost/)
+[Live](https://myseahomes.com/boost/)
 
-## Как запустить проект?
+## How to run project?
 
-Запустите ```npm i``` в терминале для установки всех обязательных пакетов
+Run command `npm i` in terminal for install for installing all required packages
 
-## Функциональность
+## Functionality
 
-- отправка заявок на почту
-- всплывающие окна
-- русская и английская версия
-- автоопределение языка основного сайта
+- sending leads by mail
+- popups
+- russian and english versions
+- autodetect main site language by cookie
 
-## Стэк
+## Stack
 
 - HTML
 - SCSS
