@@ -2,13 +2,19 @@
 
 require 'phpLibs/php-multilang/MultiLang.php';
 $ml = new MultiLang();
-$lang = 'ru';
+$langUrl = '';
+
+if (((isset($_GET) && isset($_GET['lang']) && $_GET['lang'] === 'en'))
+  || (isset($_COOKIE) && isset($_COOKIE['rl_lang_front']) && $_COOKIE['rl_lang_front'] === 'en')) {
+  $ml->setLanguage('EN');
+  $lang = 'en';
+};
 
 if (((isset($_GET) && isset($_GET['lang']) && $_GET['lang'] === 'ru'))
-  || (isset($_COOKIE) && isset($_COOKIE['rl_lang_front']) && $_COOKIE['rl_lang_front'] === 'ru')
-) {
+  || (isset($_COOKIE) && isset($_COOKIE['rl_lang_front']) && $_COOKIE['rl_lang_front'] === 'ru')) {
   $ml->setLanguage('RU');
   $lang = 'ru';
+  $langUrl = '/ru/';
 };
 
 ?>
@@ -82,7 +88,7 @@ if (((isset($_GET) && isset($_GET['lang']) && $_GET['lang'] === 'ru'))
 <body>
   <header id="top" class="header">
     <div class="wrap">
-      <a href="/"><img class="logo" src="img/logo.png" alt="Myseahomes logo" /></a>
+      <a href="https://www.myseahomes.com<?php echo $langUrl; ?>"><img class="logo" src="img/logo.png" alt="Myseahomes logo" /></a>
     </div>
   </header>
 
