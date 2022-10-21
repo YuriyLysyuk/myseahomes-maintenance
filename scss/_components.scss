@@ -50,6 +50,10 @@ section,
   padding-top: 0;
   position: relative;
 
+  @include media('<=phone') {
+    padding-top: 62%;
+  }
+
   &::before {
     content: '';
     position: absolute;
@@ -70,7 +74,7 @@ section,
     }
 
     @include media('<=phone') {
-      background-image: none;
+      background-size: 100%;
     }
   }
 
@@ -147,6 +151,10 @@ section,
 .more {
   position: relative;
 
+  @include media('<=phone') {
+    padding-top: 63%;
+  }
+
   & .wrap {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -190,8 +198,8 @@ section,
     }
 
     @include media('<=phone') {
-      background-image: none;
       top: $vertical-offset-phone;
+      background-size: 100%;
     }
   }
 
