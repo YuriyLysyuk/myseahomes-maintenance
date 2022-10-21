@@ -329,7 +329,7 @@ if (((isset($_GET) && isset($_GET['lang']) && $_GET['lang'] === 'ru'))
           <p>
             <span class="text--accented"><?= $ml->tr('Быстрое разрешение') ?></span> <?= $ml->tr('конфликтных ситуаций и бытовых вопросов') ?>
           </p>
-          <p><?= $ml->tr('Для нас — Клиент всегда прав!') ?></p>
+          <p><?= $ml->tr('Мы работаем по принципу — Клиент всегда прав!') ?></p>
         </div>
         <div class="why-we__item why-we__item--bordered">
           <p>
