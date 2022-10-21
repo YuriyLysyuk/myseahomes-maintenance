@@ -1,6 +1,6 @@
-# Лендинг Менеджмент Myseahomes
+# Лендинг Мейтенанс Myseahomes
 
-Лендинг для отдела менеджмента Myseahomes
+Лендинг для отдела мейнтенанса Myseahomes
 
 [Live](https://myseahomes.com/maintenance/)
 
