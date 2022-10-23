@@ -360,7 +360,7 @@ if (((isset($_GET) && isset($_GET['lang']) && $_GET['lang'] === 'ru'))
     </div>
   </section>
 
-  <?php // require 'template-parts/reviews.php'; ?>
+  <?php require 'template-parts/reviews.php'; ?>
 
   <footer class="footer">
     <div class="footer__grid">
