@@ -42,4 +42,8 @@ $(document).ready(function () {
     });
     return false;
   });
+
+  $(function () {
+    $('.lazy').lazy();
+  });
 });
