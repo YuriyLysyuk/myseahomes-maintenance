@@ -369,7 +369,7 @@ if (
           <div class="offer__number"><span>8</span></div>
         </div>
         <div class="offer__item offer__item--bg line__bottom line__bottom--last">
-          <div class="bg lazy" data-src="../img/offer.jpg">
+          <div class="bg lazy" data-src="./img/offer.jpg">
             <h3>
               <span class="text--accented"><?= $ml->tr('Нас') ?></span>
               <br>
