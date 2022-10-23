@@ -55,7 +55,7 @@ if (
   <link rel="stylesheet" href="css/main.min.css" />
 
   <!-- Yandex.Metrika counter -->
-  <!-- <script type="text/javascript">
+  <script type="text/javascript">
       (function (m, e, t, r, i, k, a) {
         m[i] =
           m[i] ||
@@ -90,7 +90,7 @@ if (
           style="position: absolute; left: -9999px"
           alt=""
         /></div
-    ></noscript> -->
+    ></noscript>
   <!-- /Yandex.Metrika counter -->
 </head>
 
