@@ -208,7 +208,7 @@ if (
       </div>
       <form action="#" class="form">
         <input type="text" name="name" placeholder="<?= $ml->tr(
-          'Введите ваше имя'
+          'Введите Ваше имя'
         ) ?>" required class="form__control form__control--wide" autocomplete="off" />
         <input type="tel" name="phone" placeholder="<?= $ml->tr(
           'Контактный телефон'
