@@ -12,10 +12,10 @@
         </p>
       </div>
       <div class="reviews__item reviews__item--bordered">
-        <img class="lazy" data-src="./img/review-2.jpg" alt="<?= $ml->tr('Отзыв Afina Cinaroglu') ?>">
+        <img class="lazy" data-src="./img/review-2.jpg" alt="<?= $ml->tr('Отзыв Afina Chinaroglu') ?>">
         <p>
           <?= $ml->tr('Myseahomes - специалисты по ландшафтному проектированию и дизайну. Подходят к делу очень серьезно, даже больше. Они внесли в мой проект много своего видения - которые мне очень понравились. Очень приятные в общении, всегда слышат пожелания клиента! Сказать, что я довольна - ничего не сказать! Огромное СПАСИБО, рекомендую их - как очень серьезных специалистов в этом деле!') ?>
-          <span class="reviews__author text--accented"><i class="fas fa-user-shield"></i> <?= $ml->tr('Afina Cinaroglu') ?></span>
+          <span class="reviews__author text--accented"><i class="fas fa-user-shield"></i> <?= $ml->tr('Afina Chinaroglu') ?></span>
         </p>
       </div>
       <div class="reviews__item reviews__item--bordered">
@@ -27,17 +27,17 @@
       </div>
      
       <div class="reviews__item reviews__item--bordered">
-        <img class="lazy" data-src="./img/review-3.jpg" alt="<?= $ml->tr('Отзыв Barry Verhelst') ?>">
+        <img class="lazy" data-src="./img/review-3.jpg" alt="<?= $ml->tr('Отзыв Paul Vergelst') ?>">
         <p>
           <?= $ml->tr('Хочу поблагодарить и рекомендовать мастеров из компании Myseahomes. Профессиональная четкая консультация и ремонт. Знатоки своего дела. Не пытаются обмануть или развести. Выполнили очень сложную работу по замене водяной помпы в бассейне и резервуара с песком. Поставили нужную помпу и остальные комплектующие с моего согласия и заранее со мной все согласовав. Отзыв пишу через 2 недели после выполненных работ. Проверял работу. Так вот по итогу все работает лучше чем раньше. Это факт. На самом деле отличные мастера и прекрасные в общении люди. Не сомневайтесь, обращайтесь к ним. Теперь они же и обслуживают мой бассейн. Он всегда чистый и в воде правильный уровень ph. Это очень важно для моих детей!') ?>
-          <span class="reviews__author text--accented"><i class="fas fa-user-shield"></i> <?= $ml->tr('Barry Verhelst') ?></span>
+          <span class="reviews__author text--accented"><i class="fas fa-user-shield"></i> <?= $ml->tr('Paul Vergelst') ?></span>
         </p>
       </div>
       <div class="reviews__item reviews__item--bordered">
-        <img class="lazy" data-src="./img/review-5.jpg" alt="<?= $ml->tr('Отзыв Marina Garanina') ?>">
+        <img class="lazy" data-src="./img/review-5.jpg" alt="<?= $ml->tr('Отзыв Marina Garanin') ?>">
         <p>
           <?= $ml->tr('Дорогие друзья! Хочу порекомендовать вам компанию Myseahomes! Обратились к ним, когда купили пентхаус на берегу моря, по разного рода вопросам, начиная от установки душа на террасе, до ремонтов сантехники и электропроводки. Приехали незамедлительно, изучили все прроблемы и выслушали все наши пожелания. Сделали рассчет и выслали нам смету. Мы сделали аванс и пошла работа. Выполнили все, о чем договаривались и даже гораздо больше. Сами нашли много проблемных мест в квартире и устранили из бонусом, бесплатно. Громадное вам спасибо! Кстати, потом они предложили нам взять нашу квартиру в обслуживание и в работу по аренде, пока мы в ней не живем. Мы согласились и очень довольны! Арендаторов отбирают качественно. Деньги в срок получаем. Все супер!') ?>
-          <span class="reviews__author text--accented"><i class="fas fa-user-shield"></i> <?= $ml->tr('Marina Garanina') ?></span>
+          <span class="reviews__author text--accented"><i class="fas fa-user-shield"></i> <?= $ml->tr('Marina Garanin') ?></span>
         </p>
       </div>
       <div class="reviews__item reviews__item--bordered">
@@ -97,10 +97,10 @@
         </p>
       </div>
       <div class="reviews__item reviews__item--bordered">
-        <img class="lazy" data-src="./img/review-4.jpg" alt="<?= $ml->tr('Отзыв Ahmet Şükrü Yankın') ?>">
+        <img class="lazy" data-src="./img/review-4.jpg" alt="<?= $ml->tr('Отзыв Ahmet Sukru Yankin') ?>">
         <p>
           <?= $ml->tr('Все грамотно, быстро и профессионально. Я выбрал эту компанию для обслуживания моего сада и бассейна. Еще ни разу не пожалел. Оснащены по последнему слову техники. Видно, что имеют большой опыт в этом деле. Решают любую проблему. Рекомендую всем.') ?>
-          <span class="reviews__author text--accented"><i class="fas fa-user-shield"></i> <?= $ml->tr('Ahmet Şükrü Yankın') ?></span>
+          <span class="reviews__author text--accented"><i class="fas fa-user-shield"></i> <?= $ml->tr('Ahmet Sukru Yankin') ?></span>
         </p>
       </div>
       <div class="reviews__item reviews__item--bordered">
