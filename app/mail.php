@@ -3,7 +3,7 @@
 $method = $_SERVER['REQUEST_METHOD'];
 
 $project_name = 'Мейнтенанс | Myseahomes';
-$admin_email  = 'myseahomes@yandex.com';
+$admin_email  = 'info@myseahomes.com';
 $from_email = 'info@myseahomes.com';
 $form_subject = 'Новая заявка c myseahomes.com/maintenance/';
 
